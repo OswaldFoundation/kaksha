@@ -1,2 +1,1 @@
-# kaksha
-India's first free &amp; accessible online classroom.
+![Kaksha](https://cdn.oswald.foundation/018b2-kaksha.png)
